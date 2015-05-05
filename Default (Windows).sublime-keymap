@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+alt+shift+f"], "command": "sftp_upload_file" },
+	{ "keys": ["f5"], "command": "sftp_upload_file" },
+	{ "keys": ["ctrl+/"], "command": "asp_comment_toggle_comment" },
+	{ "keys": ["ctrl+f12"], "command": "open_terminal" },
+	{ "keys": ["f12"], "command": "open_terminal_project_folder" }
+]

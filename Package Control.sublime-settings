@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ASPComment",
+		"BracketHighlighter",
+		"FileDiffs",
+		"GitGutter",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"Terminal",
+		"Trimmer"
+	]
+}
