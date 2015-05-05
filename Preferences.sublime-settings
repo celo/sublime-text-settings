@@ -12,6 +12,11 @@
 	[
 		"Vintage"
 	],
+	"index_exclude_patterns":
+	[
+		"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\DetranNET_APL\\Webservices*",
+		"*.log"
+	],
 	"line_numbers": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

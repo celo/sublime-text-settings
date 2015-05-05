@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ASP Snippets",
 		"ASPComment",
 		"BracketHighlighter",
 		"FileDiffs",
