@@ -14,7 +14,6 @@
 	],
 	"index_exclude_patterns":
 	[
-		"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\DetranNET_APL\\Webservices*",
 		"*.log"
 	],
 	"line_numbers": true,
